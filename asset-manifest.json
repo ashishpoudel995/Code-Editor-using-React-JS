@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CodeEditor/static/css/main.8a26916d.chunk.css",
+    "main.js": "/CodeEditor/static/js/main.b73902c7.chunk.js",
+    "main.js.map": "/CodeEditor/static/js/main.b73902c7.chunk.js.map",
+    "runtime-main.js": "/CodeEditor/static/js/runtime-main.d6150e4f.js",
+    "runtime-main.js.map": "/CodeEditor/static/js/runtime-main.d6150e4f.js.map",
+    "static/css/2.3f3250e8.chunk.css": "/CodeEditor/static/css/2.3f3250e8.chunk.css",
+    "static/js/2.6a12bc17.chunk.js": "/CodeEditor/static/js/2.6a12bc17.chunk.js",
+    "static/js/2.6a12bc17.chunk.js.map": "/CodeEditor/static/js/2.6a12bc17.chunk.js.map",
+    "index.html": "/CodeEditor/index.html",
+    "static/css/2.3f3250e8.chunk.css.map": "/CodeEditor/static/css/2.3f3250e8.chunk.css.map",
+    "static/css/main.8a26916d.chunk.css.map": "/CodeEditor/static/css/main.8a26916d.chunk.css.map",
+    "static/js/2.6a12bc17.chunk.js.LICENSE.txt": "/CodeEditor/static/js/2.6a12bc17.chunk.js.LICENSE.txt",
+    "static/media/loaderimg.da165c0d.png": "/CodeEditor/static/media/loaderimg.da165c0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6150e4f.js",
+    "static/css/2.3f3250e8.chunk.css",
+    "static/js/2.6a12bc17.chunk.js",
+    "static/css/main.8a26916d.chunk.css",
+    "static/js/main.b73902c7.chunk.js"
+  ]
+}
