@@ -32,7 +32,7 @@ body {
   width: 400px;
   height: 300px;
   margin-top: -150px;
-  animation: animate 3s ease;
+  animation: animate 3.2s ease;
 }
 @keyframes animate {
   100% {
