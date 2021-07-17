@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+.code-editors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(15, 14, 14, 0.712);
+}
+.editor-container {
+  width: 430px;
+  max-width: 100%;
+  margin: 0.5rem;
+  overflow: hidden;
+}
+.editor-container .editor-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: rgb(12, 11, 11);
+  color: white;
+}
+.editor-container .editor-title .filename {
+  font-family: "Courier New", Courier, monospace;
+  font-size: smaller;
+}
+.animations {
+  position: absolute;
+  top: 50%;
+  left: -12%;
+  width: 400px;
+  height: 300px;
+  margin-top: -150px;
+  animation: animate 3s ease;
+}
+@keyframes animate {
+  100% {
+    left: 50%;
+    margin-left: -200px;
+  }
+}
+.code-output {
+  height: 43.3vh;
+}
