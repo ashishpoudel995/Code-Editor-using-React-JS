@@ -14,7 +14,7 @@ The project is hosted live at : <b><a href="https://ashishpoudel995.github.io/Co
 <br/>
 
 #### Installation Steps:
-1. Clone the repository ```https://github.com/ashishpoudel995/CodeEditor.git```
+1. Clone the repository ```git clone https://github.com/ashishpoudel995/CodeEditor.git```
 2. Run ```npm install``` command.
 3. Start the React app by the commmand: ```npm start```
 4. Enjoy the Code Editor.
